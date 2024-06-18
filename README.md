@@ -7,10 +7,10 @@ Este script es una herramienta para generar claves privadas y sus correspondient
 
 Importación de módulos: Se importan los módulos y funciones necesarios para el script.
 
-import ecdsa
-import base58
-from Crypto.Hash import SHA256, RIPEMD160
-import random
+    import ecdsa
+    import base58
+    from Crypto.Hash import SHA256, RIPEMD160
+    import random
 
 
 Función private_key_to_wif: Esta función toma una clave privada en formato binario y la convierte en formato Wallet Import Format (WIF).
