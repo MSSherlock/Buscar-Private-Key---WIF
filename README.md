@@ -95,3 +95,10 @@ Ubicar el script y abrirlo en una terminal, para ejecutar usar:
 
     python3 Buscar-Private-Key-WIF.py
 
+
+
+
+
+Gracias por usar este Script! :) 
+
+Donaciones en Bitcoin: bc1qpwuvp6nacke0h0krgmnydc9nht4v3h2qqd8ck6
